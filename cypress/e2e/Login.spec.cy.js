@@ -9,12 +9,12 @@ describe('Cypress Selector Playground', ()=>{
                     cy.get('.oxd-button').click();
           });   
           
-          it.only('Forgot Password', ()=>{
+          // it('Forgot Password', ()=>{
 
-                    cy.visit("https://opensource-demo.orangehrmlive.com/");
+          //           cy.visit("https://opensource-demo.orangehrmlive.com/");
 
-                    cy.contains('Forgot').click();
+          //           cy.contains('Forgot').click();
                     
-          })
+          // })
 
 });
