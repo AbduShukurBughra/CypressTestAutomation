@@ -30,7 +30,6 @@ describe("OrangeHRM Test Suite", ()=>{
     cy.xpath("//button[@type='submit']").click();
     
     // cy.get(".oxd-text.oxd-text--p.oxd-alert-content-text").should("have.text","Invalid credentials");
-
     // cy.get
   });
 
